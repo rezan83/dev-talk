@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://admin:rezanben@cluster0.ksylu.mongodb.net/dev-talk?retryWrites=true&w=majority"
+}
